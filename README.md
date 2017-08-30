@@ -16,6 +16,11 @@ Using this experimental subject, research on these particular AI fields can be c
 For this particular reason, an AI framework and a match automation is featured.
 More details about the AI framework and some about the technical implementation, can be retrieved from the wiki.
 
+# Credits
+
+An excerpt of the [PowerBot](https://www.assetstore.unity3d.com/en/#!/content/18136) asset is used inside this project and is only available for **non-commercial use**.
+Otherwise, purchase the asset on Unity's asset store.
+
 # Setting up the Source Dependency Photon Bolt
 
 BRO does not make use of Unity's networking APIs.
@@ -41,7 +46,4 @@ These are the steps to import and install Bolt to get started using the project 
 4. Restart Unity
 5. Compile Bolt via the menu "/Assets/Bolt/Compile Assembly"
 
-# Credits
-
-An excerpt of the [PowerBot](https://www.assetstore.unity3d.com/en/#!/content/18136) asset is used inside this project and is only available for **non-commercial use**.
-Otherwise, purchase the asset on Unity's asset store.
+![Install Bolt](https://github.com/MarcoMeter/Beastly-Rivals-Onslaught/wiki/images/home/boltInstall.png "Install Bolt")
