@@ -1,0 +1,56 @@
+# ============= #
+# Ignoring Bolt #
+# ============= #
+Assets/bolt
+Assets/Gizmos
+Assets/Photon
+Assets/Plugins
+Assets/Resources/ServerMonitor.prefab
+Assets/Resources/ServerMonitor.prefab.meta
+!Assets/bolt/project.bytes
+!Assets/bolt/assemblies/bolt.user.dll
+!Assets/bolt/assemblies/bolt.user.dll.mdb
+!Assets/bolt/resources/BoltPrefabDatabase.asset
+!Assets/bolt/resources/BoltRuntimeSettings.asset
+
+# ============= #
+# BRO generated #
+# ============= #
+LearningAI/
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Assets/BRO Game/Sounds/Unofficial/
+Assets/bolt/resources/icons.meta
+Assets/BRO Game/Sounds/Unofficial.meta

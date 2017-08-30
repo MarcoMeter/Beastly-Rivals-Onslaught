@@ -1,0 +1,2 @@
+indicator (ControlledPlayerFeedback)
+https://openclipart.org/detail/196319/crystal-gems-glittering-blue-yellow-precious-gems

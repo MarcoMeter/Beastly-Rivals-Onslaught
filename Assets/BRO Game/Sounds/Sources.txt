@@ -1,0 +1,19 @@
+backgroundMusic
+nosoapradio.us
+https://www.facebook.com/freegamemusic/
+chatMessage
+http://www.freesound.org/people/LiamG_SFX/sounds/322224/
+passBall
+https://www.freesound.org/people/DrMinky/sounds/174435/
+playerBlink
+http://www.freesound.org/people/LiamG_SFX/sounds/322223/
+playerKilled
+http://www.flashkit.com/soundfx/Creatures/monster-150909060512.html
+playerHumilated
+has to be replaced
+boltShotBegin
+has to be replaced
+boltShotEnd
+has to bre replaced
+playerRevive
+http://freesound.org/people/LloydEvans09/sounds/332004/

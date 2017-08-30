@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: _Blue_no1_MAT
+  m_Shader: {fileID: 4800000, guid: b1fd18905b257914fb3615af5bfb7f48, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: fc95d664350fb9b47a10ca39b317d207, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Reflection
+        second:
+          m_Texture: {fileID: 2800000, guid: 585a837e3c13631498d53f170b703a6a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 0c8d5b291062b6941a4905a173849d38, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Gloss
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DIF
+        second:
+          m_Texture: {fileID: 2800000, guid: 2c88ee0435968b44ba48fa264a6cb4a3, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _NM
+        second:
+          m_Texture: {fileID: 2800000, guid: 0c8d5b291062b6941a4905a173849d38, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .0803525075
+      data:
+        first:
+          name: _RIM_Exp
+        second: 2
+      data:
+        first:
+          name: _SI
+        second: .5
+      data:
+        first:
+          name: _GlossPower
+        second: .5
+      data:
+        first:
+          name: _Reflection_Amm
+        second: 1.5
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .860294104, g: .930628836, b: 1, a: 1}
+      data:
+        first:
+          name: _RIM
+        second: {r: .699999988, g: .870000005, b: 1, a: 1}
+      data:
+        first:
+          name: _SPEC_color
+        second: {r: .699999988, g: .870000005, b: 1, a: 1}
+      data:
+        first:
+          name: _DIF_color
+        second: {r: 1, g: 1, b: 1, a: 1}
