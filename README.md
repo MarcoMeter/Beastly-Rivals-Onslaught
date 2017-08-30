@@ -1,5 +1,4 @@
 # About the Game
-Beastly Rivals Onslaught (BRO) is a use-case for conducting AI research made with Unity.
 BRO is a multiplayer online survival arena (MOSA).
 Up to eight players compete each other during a fast-paced match.
 The player's ultimate goal is to survive during the whole match.
