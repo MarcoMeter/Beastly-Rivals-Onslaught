@@ -11,10 +11,10 @@ Such an ability is blinking. The player may teleport to any location on the pitc
 
 # About the Project
 
-The motivation behind this project is to provide a challenging use-case for most recent deep learning techniques such as reinforcement learning.
+The motivation behind this academic and non-commercial project is to provide a challenging use-case for most recent deep learning techniques such as deep reinforcement learning.
 Using this experimental subject, research on these particular AI fields can be conducted.
 For this particular reason, an AI framework and a match automation is featured.
-More details about the AI framework and some about the technical implementation, can be retrieved from the wiki.
+More details about the AI framework and some details about the technical implementation can be retrieved from the wiki.
 
 # Credits
 
