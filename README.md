@@ -16,6 +16,8 @@ Using this experimental subject, research on these particular AI fields can be c
 For this particular reason, an AI framework and a match automation is featured.
 More details about the AI framework and some details about the technical implementation can be retrieved from the wiki.
 
+An introduction to the whole project can be viewed on [Youtube](https://youtu.be/OTcDd7a_R0A)!
+
 # Credits
 
 An excerpt of the [PowerBot](https://www.assetstore.unity3d.com/en/#!/content/18136) asset is used inside this project and is only available for **non-commercial use**.
